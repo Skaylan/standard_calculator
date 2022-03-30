@@ -107,6 +107,16 @@ body {
     color: var(--color-white1);
 }
 
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: var(--color-white1);
+    margin-top: 1rem;
+}
+
 #equal {
     width: 135px;
     background: var(--color-green1);
