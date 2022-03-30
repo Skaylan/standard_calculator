@@ -4,7 +4,7 @@
   "description": "a standard calculator made in vanilla javascript",
   "main": "index.js",
   "engines": {
-    "node": "17.x"
+    "node": "14.x"
   },
   "scripts": {
     "start": "node index.js"
